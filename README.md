@@ -1,5 +1,8 @@
 # 💫 About Me:
-Blockchain enthusiast. Experienced Software and Data Engineer at Chainlink Labs with proved competence in building large data processing systems
+👨‍💻 Software & Data Engineer at Chainlink Labs | 🌐 Blockchain Enthusiast
+🔧 Specializing in building scalable and efficient data processing systems.
+🚀 Passionate about developing innovative solutions that drive the future of decentralized applications.
+💡 Always seeking new challenges and opportunities to grow in the ever-evolving tech landscape.
 
 
 ## 🌐 Socials:

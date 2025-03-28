@@ -1,3 +1,4 @@
+![alt text](banner.png)
 # 💫 About Me:
 👨‍💻 Software & Data Engineer at Chainlink Labs | 🌐 Blockchain Enthusiast
 🔧 Specializing in building scalable and efficient data processing systems.
